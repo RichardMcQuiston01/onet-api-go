@@ -1,4 +1,4 @@
-package onet_api_go
+package main
 
 import (
 	"encoding/base64"
